@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseCotacoes": "STRING BASE SQL",
+    "BrokerRabbitMQ": "amqp://testes:RabbitMQ2019!@localhost:5672/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
